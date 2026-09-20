@@ -57,6 +57,20 @@ inside the greeting card.
 
 STEM | Basic Electronics | Paper Craft
 
+## Project Images
+
+### Greeting Card
+
+![Greeting Card](greeting-card-front.jpg)
+
+### LED Circuit
+
+![LED Circuit](led-circuit.jpg)
+
+### Working Model
+
+![Working Model](greeting-card-working.jpg)
+
 ## 9\. Developed By
 
 Student Name:
